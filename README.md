@@ -22,8 +22,11 @@ Link of video from 3Blue1Brown:
 
 [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
+---
 
 ### Block Explorer
 Nice Web site to find blocks and anylize the block chains.
 
 [Block Explorer](https://blockexplorer.com/)
+
+---
