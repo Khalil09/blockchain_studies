@@ -11,3 +11,9 @@ This is one of the best introductions to blockchain, if you know nothing (John S
 [PDF](https://github.com/Khalil09/blockchain_studies/blob/master/A-Gentle-Introduction-To-Blockchain-Technology-WEB.pdf)
 
 ---
+
+### Videos
+
+Link of video from Computherphile
+[The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)
+
