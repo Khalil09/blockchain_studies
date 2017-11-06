@@ -30,3 +30,8 @@ Nice Web site to find blocks and anylize the block chains.
 [Block Explorer](https://blockexplorer.com/)
 
 ---
+
+### Bitcoin: A Peer-to-Peer Electronic Cash System(PAPER)
+Original Paper written by Satoshi Nakamoto.
+
+[Original Paper PDF](https://bitcoin.org/bitcoin.pdf)
