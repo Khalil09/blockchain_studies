@@ -14,6 +14,10 @@ This is one of the best introductions to blockchain, if you know nothing (John S
 
 ### Videos
 
-Link of video from Computherphile
+Link of video from Computherphile:
+
 [The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)
 
+Link of video from 3Blue1Brown:
+
+[Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
